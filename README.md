@@ -1,1 +1,2 @@
-# MultiFlex | Front-End part of web-app.
+# MultiFlex | Front-End (Next JS)
+Front-End part of web-app.
