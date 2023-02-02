@@ -1,1 +1,1 @@
-# Multi-Flex | Front-End part of web-app.
+# Multi-Flex | Back-End part of web-app.
